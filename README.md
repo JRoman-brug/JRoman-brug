@@ -10,7 +10,7 @@ Actualmente estoy enfocado en el desarrollo backend, aunque mi experiencia en pr
 
 - 📚 Cursando "Tópicos Avanzados de Aplicaciones Web" (Microservicios, Docker, NoSQL).
 - 🚀 Busco activamente mi primera oportunidad laboral (pasantía o puesto trainee/junior) para aplicar mis habilidades y seguir aprendiendo.
-- 💬 ¡Conectemos! Encuéntrame en [**LinkedIn**](https://www.linkedin.com/in/[tu-usuario-linkedin-aqui]).
+- 💬 ¡Conectemos! Encuéntrame en [**LinkedIn**]([https://ar.linkedin.com/in/rom%C3%A1n-brugnoni-41873021a]).
 
 ---
 
