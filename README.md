@@ -10,7 +10,7 @@ My goal is to build a career in backend development. My experience with full-sta
 
 - 🚀 Actively looking for my first internship or trainee position.
 - 📚 **Currently Learning:** Docker, Microservices, and NoSQL.
-- 💬 Let's connect! Find me on [**LinkedIn**]([https://www.linkedin.com/in/[your-linkedin-username-here](https://www.linkedin.com/in/rom%C3%A1n-brugnoni-41873021a/)]).
+- 💬 Let's connect! Find me on [**LinkedIn**](https://www.linkedin.com/in/[your-linkedin-username-here](https://www.linkedin.com/in/rom%C3%A1n-brugnoni-41873021a/)).
 
 ---
 
