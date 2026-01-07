@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2MjY2bWJtYnN0ZzhvY2N6NTZ6cDAyZmNscG54eDRtNXZwYmxxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
   &nbsp;
-  I am a 4th-year Systems Engineering student at <b>Universidad Nacional del Sur (UNS)</b>, passionate about software development.
+  I am a 5th-year Systems Engineering student at <b>Universidad Nacional del Sur (UNS)</b>, passionate about software development.
 </p>
 
 My goal is to build a career in backend development. My experience with full-stack projects has given me a complete understanding of the product lifecycle, from the UI to the database.
