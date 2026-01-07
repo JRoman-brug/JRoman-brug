@@ -54,7 +54,7 @@ Here are my pinned repositories. Each one has a detailed `README.md` file explai
 
     - A Trello clone with a Node.js/Express REST API and a React frontend using TanStack Query.
 
-3.  [**`uns-tecnologiaprogramacion-candycrush`**](https://github.com/JRoman-brug/uns-tecnologiaprogramacion-candycrush)
+3.  [**`uns-tecnologiaprogramacion-candycrush`**](https://github.com/JRoman-brug/uns-tecnologiaprogrogramacion-candycrush)
 
     - A Candy Crush clone in Java and Swing, focusing on Design Patterns and teamwork.
 
